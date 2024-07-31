@@ -7,12 +7,20 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanee917&show_icons=true&theme=radical)
-
+<br>
+<br>
 
 <h3 align="center">👉  Me 👈</h3>
 
 <p align="center"> it's my social media </p>
 
 <p align="center"> <a href="https://www.instagram.com/05._.chani" target="_blank"><img src="https://img.shields.io/badge/instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UCmYS7qI6iTBRiwJbPAOnQ5A" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> </p>
+
+<br>
+<br>
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanee917&show_icons=true&theme=radical)
+
+</div>
