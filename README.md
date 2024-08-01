@@ -24,7 +24,7 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={05_chani})](https://solved.ac/{05_chani})
 
 </div>
 
