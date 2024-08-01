@@ -9,6 +9,10 @@
 
 <br>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=05_chani)](https://solved.ac/05_chani)
+
+<br>
+
 <h3 align="center">👉  Me 👈</h3>
 
 <p align="center"> it's my social media </p>
@@ -22,8 +26,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanee917&show_icons=true&theme=radical)
 
 <br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=05_chani)](https://solved.ac/05_chani)
 
 </div>
 
