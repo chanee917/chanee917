@@ -16,14 +16,16 @@
 <p align="center"> <a href="https://www.instagram.com/05._.chani" target="_blank"><img src="https://img.shields.io/badge/instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UCmYS7qI6iTBRiwJbPAOnQ5A" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> </p>
 
 <br>
-<br>
-
 
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanee917&show_icons=true&theme=radical)
 
-</div>
+<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+</div>
+
+
